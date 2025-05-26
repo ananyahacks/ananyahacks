@@ -8,7 +8,6 @@ Get to know me:
 
 
 - 📧- ananya2005chakraborty@gmail.com
-
 - 📑 - https://www.linkedin.com/in/ananya-chakraborty-579a2a209/
 <!---
 ananyahacks/ananyahacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
