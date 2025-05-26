@@ -1,5 +1,6 @@
 👋 -  Hi, I’m @ananyahacks
-\n
+
+
 - Innovative, task-driven individual, fresher, looking for more experience in web development using Java as base across diverse industries.
 - Strong ability to work with different teams, time-efficient, explain technical ideas clearly, and deliver quality solutions in fast-paced settings.
 
