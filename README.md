@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **innovative machine learning or web development projects**.
 - 💬 Ask me about **Java, Python, HTML/CSS/JS, or Machine Learning fundamentals!**
 - 📫 How to reach me: [ananya2005chakraborty@gmail.com](mailto:ananya2005chakraborty@gmail.com)
-- 🔗 Connect with me: [My Portfolio](https://ananyahacks.github.io/) | [LinkedIn](https://www.linkedin.com/in/ananya-chakraborty-579a2a209) | [CodeChef](https://www.codechef.com/users/ananyahacks) | [LeetCode](https://leetcode.com/ananyahacks/)
+- 🔗 Connect with me: [My Portfolio](https://ananyahacks.github.io/) | [LinkedIn](https://www.linkedin.com/in/ananya-chakraborty-579a2a209) | [CodeChef](https://www.codechef.com/users/anaxyas) | [LeetCode](https://leetcode.com/u/anaxyas/)
 
 ---
 
