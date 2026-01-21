@@ -18,6 +18,6 @@ I am a final-year B.Tech student in Information Technology with a strong interes
 - Business-focused Data Visualization
 
 ### 🔗 Connect with me:
-- GitHub: https://github.com/ananyahacks  
+- Email: ananya2005chakraborty@gmail.com
 - LinkedIn: https://linkedin.com/in/AnanyaChakraborty
 
