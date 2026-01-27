@@ -8,6 +8,7 @@ I am a final-year B.Tech student in Information Technology with a strong interes
 🔹 Focused on data cleaning, exploratory analysis, and dashboard creation  
 
 ### 📂 Featured Projects:
+- Social Media Engagement Analysis
 - E-commerce Sales Performance Analysis
 
 
