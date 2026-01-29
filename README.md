@@ -7,12 +7,13 @@
 ### Final-year B.Tech student in Information Technology with a strong interest in analytics and business intell
 
 
-🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
-🔹 Strong focus on data cleaning, EDA, and visualization
+  🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
+  🔹 Strong focus on data cleaning, EDA, and visualization
 
 ### 📂 Featured Projects:
-- Social Media Engagement Analysis
-- E-commerce Sales Performance Analysis
+  - `user-behavior-risk-analysis`
+  - `Social Media Engagement Analysis` 
+  - `E-commerce Sales Performance Analysis`
 
 
 ### Core Skills:
