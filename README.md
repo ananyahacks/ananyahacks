@@ -4,7 +4,7 @@
 
 <p align="left">
   
-### Final-year B.Tech student in Information Technology with a strong interest in analytics and business intell
+#### Final-year B.Tech student in Information Technology with a strong interest in data analysis and business insights. I enjoy working with data to uncover trends, solve problems, and support data-driven decision-making through clear analysis and visualization.
 
 
   🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
