@@ -1,8 +1,11 @@
-Hi, I’m Ananya Chakraborty.
+<h1 align="center"> Hi, I’m Ananya Chakraborty.</h1>
 
-Junior Data Analyst | Excel • SQL • Power BI • Python
+<h3 align="center">Junior Data Analyst | Excel • SQL • Power BI • Python</h3>
 
-Final-year B.Tech student in Information Technology passionate about data analytics and business intelligence. Experienced in transforming raw data into actionable insights through SQL analysis, Excel modeling, and Power BI dashboards.
+<p align="left">
+  
+### Final-year B.Tech student in Information Technology with a strong interest in analytics and business intell
+
 
 🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
 🔹 Strong focus on data cleaning, EDA, and visualization
