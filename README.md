@@ -11,7 +11,7 @@
   🔹 Strong focus on data cleaning, EDA, and visualization
 
 ### 📂 Featured Projects:
-  - `user-behavior-risk-analysis`
+  - `User-Behavior-Risk-Analysis (Portfolio Project)`
   - `Social Media Engagement Analysis` 
   - `E-commerce Sales Performance Analysis`
 
