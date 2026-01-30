@@ -13,13 +13,13 @@
 ## 📂 Featured Data Projects
 
 ### 🔹 Social Media Engagement Analysis | Excel + SQL + Power BI
-- Built end-to-end analytics pipeline using SQL & Power BI
+- Transformed raw data into clean, analysis-ready CSV files to support KPI reporting and dashboard development using SQL and PowerBI.
 - Designed KPI dashboards for platform, topic, sentiment & time trends
 - Answered real business questions on engagement performance
 🔗 Repo: https://github.com/ananyahacks/social-media-engagement-analysis
 
 ### 🔹 User Behavior & Risk Analysis | SQL + Power BI + Python(Faker)
-- Analyzed synthetic user & transaction data for anomaly detection
+- Analyzed synthetic user & transaction data generated using Python's Faker Library for anomaly detection
 - Built dashboards for risk indicators & abnormal patterns
 - Focused on fraud/risk monitoring use cases
 🔗 Repo: https://github.com/ananyahacks/user-behavior-risk-analysis
