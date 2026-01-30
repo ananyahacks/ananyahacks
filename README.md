@@ -10,19 +10,28 @@
   🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
   🔹 Strong focus on data cleaning, EDA, and visualization
 
-### 📂 Featured Projects:
-  - `User-Behavior-Risk-Analysis (Portfolio Project)`
-  - `Social Media Engagement Analysis` 
-  - `E-commerce Sales Performance Analysis`
+## 📂 Featured Data Projects
+
+### 🔹 Social Media Engagement Analysis | Excek + SQL + Power BI
+- Built end-to-end analytics pipeline using SQL & Power BI
+- Designed KPI dashboards for platform, topic, sentiment & time trends
+- Answered real business questions on engagement performance
+🔗 Repo: https://github.com/ananyahacks/social-media-engagement-analysis
+
+### 🔹 User Behavior & Risk Analysis | SQL + Power BI + Python(Faker)
+- Analyzed synthetic user & transaction data for anomaly detection
+- Built dashboards for risk indicators & abnormal patterns
+- Focused on fraud/risk monitoring use cases
+🔗 Repo: https://github.com/ananyahacks/user-behavior-risk-analysis
 
 
-### Core Skills:
+## Core Skills:
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
 - SQL Querying & Aggregation
 - Business-focused Data Visualization
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 - Email: ananya2005chakraborty@gmail.com
 - LinkedIn: https://linkedin.com/in/AnanyaChakraborty
 
