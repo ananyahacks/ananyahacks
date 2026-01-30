@@ -4,7 +4,7 @@
 
 <p align="left">
   
-#### Final-year B.Tech student in Information Technology with a strong interest in data analysis and business insights. I enjoy working with data to uncover trends, solve problems, and support data-driven decision-making through clear analysis and visualization.
+#### Final-year IT student focused on building end-to-end analytics projects using SQL and Power BI. I enjoy translating raw data into clear business insights through KPI dashboards, trend analysis, and performance reporting.
 
 
   🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
@@ -12,7 +12,7 @@
 
 ## 📂 Featured Data Projects
 
-### 🔹 Social Media Engagement Analysis | Excek + SQL + Power BI
+### 🔹 Social Media Engagement Analysis | Excel + SQL + Power BI
 - Built end-to-end analytics pipeline using SQL & Power BI
 - Designed KPI dashboards for platform, topic, sentiment & time trends
 - Answered real business questions on engagement performance
