@@ -9,31 +9,51 @@
 
   🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
   🔹 Strong focus on data cleaning, EDA, and visualization
-
+  
+---
 ## 📂 Featured Data Projects
 
-### 🔹 Social Media Engagement Analysis | Excel + SQL + Power BI
-- Transformed raw data into clean, analysis-ready CSV files to support KPI reporting and dashboard development using SQL and PowerBI.
-- Designed KPI dashboards for platform, topic, sentiment & time trends
-- Answered real business questions on engagement performance
-🔗 Repo: https://github.com/ananyahacks/social-media-engagement-analysis
+### User Behavior & Risk Analysis | SQL + Power BI + Python (Faker)
 
-### 🔹 User Behavior & Risk Analysis | SQL + Power BI + Python(Faker)
-- Analyzed synthetic user & transaction data generated using Python's Faker Library for anomaly detection
-- Built dashboards for risk indicators & abnormal patterns
-- Focused on fraud/risk monitoring use cases
+• Generated realistic synthetic user & transaction data using Python (Faker)  
+• Analyzed behavior patterns to identify anomalies and potential risk indicators  
+• Built dashboards to monitor abnormal transactions and risk metrics  
+• Simulated real-world fraud/risk monitoring use cases  
+
 🔗 Repo: https://github.com/ananyahacks/user-behavior-risk-analysis
 
+---
 
-## Core Skills:
-- Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
-- SQL Querying & Aggregation
-- Business-focused Data Visualization
+### Social Media Engagement Analysis | Excel + SQL + Power BI
 
-## 🔗 Connect with me:
-- Email: ananya2005chakraborty@gmail.com
-- LinkedIn: https://linkedin.com/in/AnanyaChakraborty
+• Cleaned and transformed raw social media data into analysis-ready datasets using SQL  
+• Designed KPI dashboards to track engagement by platform, topic, sentiment, and time  
+• Analyzed engagement trends to answer real business questions (what content performs best, when, and where)  
+• Built an end-to-end workflow from raw CSV → SQL analysis → Power BI dashboard  
+
+🔗 Repo: https://github.com/ananyahacks/social-media-engagement-analysis
+
+
+---
+
+
+## 🎯 Core Skills
+
+• Turning raw, messy data into clean, structured datasets  
+• Exploring data to uncover trends, patterns, and anomalies  
+• Writing efficient SQL queries to answer real business questions  
+• Building clear, decision-oriented dashboards and reports  
+
+
+---
+
+## 🔗 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya2005chakraborty@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-chakraborty-579a2a209/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ananyaaaaa)
+
+---
 
 ## 🧰 Tech Stack
 
