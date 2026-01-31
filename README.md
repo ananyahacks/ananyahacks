@@ -13,23 +13,13 @@
 ---
 ## 📂 Featured Data Projects
 
-### User Behavior & Risk Analysis | SQL + Power BI + Python (Faker)
-
-• Generated realistic synthetic user & transaction data using Python (Faker)  
-• Analyzed behavior patterns to identify anomalies and potential risk indicators  
-• Built dashboards to monitor abnormal transactions and risk metrics  
-• Simulated real-world fraud/risk monitoring use cases  
+-  `User Behavior & Risk Analysis | SQL + Power BI + Python (Faker)`
 
 🔗 Repo: https://github.com/ananyahacks/user-behavior-risk-analysis
 
 ---
 
-### Social Media Engagement Analysis | Excel + SQL + Power BI
-
-• Cleaned and transformed raw social media data into analysis-ready datasets using SQL  
-• Designed KPI dashboards to track engagement by platform, topic, sentiment, and time  
-• Analyzed engagement trends to answer real business questions (what content performs best, when, and where)  
-• Built an end-to-end workflow from raw CSV → SQL analysis → Power BI dashboard  
+- `Social Media Engagement Analysis | Excel + SQL + Power BI`
 
 🔗 Repo: https://github.com/ananyahacks/social-media-engagement-analysis
 
