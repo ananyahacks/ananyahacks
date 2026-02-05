@@ -13,7 +13,7 @@
 ---
 ## 📂 Featured Data Projects
 
--  `User Behavior & Risk Analysis | SQL + Power BI + Python (Faker)`
+-  `User Behavior & Risk Analysis | Excel + Python (Faker) + SQL`
 
 🔗 Repo: https://github.com/ananyahacks/user-behavior-risk-analysis
 
