@@ -1,47 +1,37 @@
-<h1 align="center"> Hi, I’m Ananya Chakraborty.</h1>
+<h1 align="center">Hi, I'm Ananya Chakraborty 👋</h1>
 
-<h3 align="center">Junior Data Analyst | Excel • SQL • Power BI • Python</h3>
-
-<p align="left">
-  
-#### Final-year IT student focused on building end-to-end analytics projects using SQL and Power BI. I enjoy translating raw data into clear business insights through KPI dashboards, trend analysis, and performance reporting.
-
-
-  🔹 Hands-on experience with Excel, SQL, Power BI, and Python  
-  🔹 Strong focus on data cleaning, EDA, and visualization
-  
----
-## 📂 Featured Data Projects
-
--  `User Behavior & Risk Analysis | Excel + Python (Faker) + SQL`
-
-🔗 Repo: https://github.com/ananyahacks/user-behavior-risk-analysis
+<h3 align="center">
+Data Analyst | Frontend Developer
+</h3>
 
 ---
 
-- `Social Media Engagement Analysis | Excel + SQL + Power BI`
+### 🎓 **B.Tech in Information Technology**  
+Calcutta Institute of Engineering and Management (2022–2026)  
+CGPA: **8.51**
 
-🔗 Repo: https://github.com/ananyahacks/social-media-engagement-analysis
+### I enjoy transforming raw data into meaningful insights and building interactive tools that make information easier to understand. My work spans **data analysis, dashboard development, and frontend applications**.
+
+
 
 
 ---
+## Projects Across Data & Front-End Development
 
+| 📊 Data Analysis / Machine Learning | 🌐 Frontend Development |
+|------------------------------------|-------------------------|
+| **🔍 User Behavior & Risk Analysis** <br> *Python · SQL · Excel · Power BI* <br> Generated **2000+ synthetic user datasets** and built dashboards to detect abnormal transaction patterns | **🗺️ Route Planner Map** <br> *HTML · CSS · JavaScript · Leaflet.js* <br> Interactive route planner with geocoding, travel distance and time estimation |
+| **📈 Social Media Engagement Analysis** <br> *Excel · SQL · Power BI* <br> Analyzed **12,000+ records** and created dashboards to track engagement trends and sentiment health | **🌿 BloomTrack – Wellness Dashboard** <br> *HTML · CSS · JavaScript · Chart.js* <br> Interactive wellness dashboard visualizing habits, mood trends and sleep analytics |
 
+---
 ## 🎯 Core Skills
 
-• Turning raw, messy data into clean, structured datasets  
-• Exploring data to uncover trends, patterns, and anomalies  
-• Writing efficient SQL queries to answer real business questions  
-• Building clear, decision-oriented dashboards and reports  
-
-
----
-
-## 🔗 Connect with me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya2005chakraborty@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-chakraborty-579a2a209/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ananyaaaaa)
+• Turning raw data into insights through structured analysis and visualization  
+• Exploratory Data Analysis (EDA) to identify patterns and trends  
+• Writing efficient SQL queries to answer business questions  
+• Building interactive dashboards and reports  
+• Creating end-to-end analytics workflows  
+• Developing responsive front-end interfaces and visual tools
 
 ---
 
@@ -61,3 +51,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+
+## 🔗 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya2005chakraborty@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-chakraborty-579a2a209/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ananyaaaaa)
+
+
